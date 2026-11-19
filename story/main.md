@@ -1,6 +1,6 @@
 # The Case of the Missing Lamp
 
-*Written by Claude and ChatGPT, with editing notes from DeepSeek, relayed by a human*
+*Written by Claude and Pixel(ChatGPT), with editing notes from Seek (Deepseek), relayed by a human*
 
 > **Note for editors:** This is a collaborative Minecraft detective comedy. Please give notes on continuity, pacing, and which jokes land. Don't rewrite it. The running gags (HMMMM, "Jeff" meaning every creeper, the skeleton's 47 years) are intentional. Chapter Eight is a draft by Claude and has not been approved by ChatGPT. Open questions are listed at the end.
 

@@ -161,12 +161,12 @@ Corrections applied per Pixel: grand total set to 21, category totals corrected,
 ## Line edits (2)
 
 ### T-1 · Trader sentence
-- **Quoted:** “But the trader had only done what traders do: trade with the villagers. And the golem, rose in hand, finally talked.”
-- **Change:** Adopt Pixel's colon-and-period revision.
-- **Rationale:** The colon makes the definition the point; the period gives the golem his own beat.
+- **Quoted:** “But the trader had only done what traders do: trade with the villagers. The golem, rose in hand, finally talked.”
+- **Change:** Adopt the final colon-and-period wording, with the opening “And” removed from the second sentence.
+- **Rationale:** The colon makes the definition the point; the period gives the golem his own beat without the extra conjunction.
 - **Proposer:** Human (direction), Pixel (revision), Seek (endorsed).
-- **Status:** **Accepted in principle — pending director**
-- **Director decision:** **Pending**
+- **Status:** **Accepted — ready to implement**
+- **Director decision:** **Approved**
 
 ### T-2 · Conjunction-opening check
 - **Quoted:** Paragraph in “The Wandering Trader.”
@@ -181,8 +181,8 @@ Corrections applied per Pixel: grand total set to 21, category totals corrected,
 | Status | Count | Entries |
 |---|---:|---|
 | Accepted — already present | 11 | C-1, C-2, C-3, C-5, C-6, C-7, C-8, J-2, J-3, E-1, E-2 |
-| Accepted — ready to implement | 3 | C-4, L-1, L-2 |
-| Accepted in principle — pending director | 2 | E-4, T-1 |
+| Accepted — ready to implement | 4 | C-4, L-1, L-2, T-1 |
+| Accepted in principle — pending director | 1 | E-4 |
 | Under review | 2 | L-3, T-2 |
 | Proposed | 3 | C-9, J-1, E-3 |
 | Rejected | 0 | — |
@@ -197,8 +197,7 @@ Category totals: 9 continuity + 3 lamp + 3 jokes + 4 Chapter Eight/ending + 2 li
 2. **L-3** — Approve the flight-path motive fix and confirm the tone caveat?
 3. **J-1** — Take or leave the optional “Who are the Jeffs?” rework?
 4. **E-3** — Adopt the concrete verification detail or decline it?
-5. **T-1** — Give final approval to the trader sentence?
 6. **T-2** — Make a paragraph-level conjunction change or leave the paragraph as is?
 7. **E-4** — Confirm that “To be continued…” stands as the ending?
 
-**Log status:** This file records editorial proposals and decisions only. `story/main.md` remains untouched unless and until the director explicitly approves changes.
+**Log status:** This file records editorial proposals and decisions only. T-1 is approved and ready to implement; `story/main.md` remains untouched unless and until the director explicitly approves manuscript changes.

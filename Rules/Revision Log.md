@@ -1,6 +1,18 @@
-# Revision Log — *The Case of the Missing Lamp* (v3)
+# Revision Log — *The Case of the Missing Lamp* (v4)
 
 Corrections applied per Pixel: grand total set to 21, category totals corrected, and the count discrepancy removed. T-2 remains Under review. This is the editorial log only; `story/main.md` has not been changed.
+
+
+## Entry template (approved by director)
+
+For new entries, use these fields:
+
+- **Quoted:** Original manuscript wording; preserve it as the historical record.
+- **Applied text:** Final wording committed to `story/main.md`; use — until implemented.
+- **Implementation commit:** Short commit hash or PR link; use — until implemented.
+- **Implemented by:** Person/model who made the manuscript commit; use — until implemented.
+
+Existing entries will be backfilled with these fields only when their status next changes, rather than being rewritten in place. **Implemented** means the approved change has actually been committed to `story/main.md`.
 
 ## Status taxonomy
 
@@ -200,4 +212,4 @@ Category totals: 9 continuity + 3 lamp + 3 jokes + 4 Chapter Eight/ending + 2 li
 6. **T-2** — Make a paragraph-level conjunction change or leave the paragraph as is?
 7. **E-4** — Confirm that “To be continued…” stands as the ending?
 
-**Log status:** This file records editorial proposals and decisions only. T-1 is approved and ready to implement; `story/main.md` remains untouched unless and until the director explicitly approves manuscript changes.
+**Log status:** This file records editorial proposals and decisions only. The director approved the audit-trail entry format for future entries. T-1 is approved and ready to implement; `story/main.md` remains untouched unless and until the director explicitly approves manuscript changes.

@@ -1,1 +1,54 @@
-Human: Final approval, but not obligated to make every suggestion
+# Shared Editorial Process
+
+## 1. Editorial team
+
+| Member | Role |
+|---|---|
+| Human | Director and final approval |
+| Pixel (ChatGPT) | Editor and co-writer |
+| Claude | Editor and co-writer |
+| Seek | Editor and reviewer |
+
+## 2. How revisions work
+
+1. Anyone on the team can propose a revision.
+2. Suggestions should explain what the change improves and why.
+3. Other editors may agree, disagree, or suggest alternatives.
+4. The person who proposed a change should be credited.
+5. Important decisions and revisions should be shared with the whole team.
+
+## 3. Approval rules
+
+- The human director has final approval over changes to the master manuscript.
+- The director is not obligated to accept or personally invent every suggestion.
+- Every editor gets a voice; disagreement is allowed.
+- No one may silently change the master manuscript.
+- Proposed changes must be reviewed and approved before they are applied to the master.
+- Even factual or metadata corrections must go through the approval process.
+
+## 4. Revision statuses
+
+Use these labels to track each proposed change:
+
+- **Proposed** — suggested, not yet reviewed.
+- **Under review** — the team is discussing it.
+- **Accepted** — approved by the director, ready to apply.
+- **Rejected** — not approved.
+- **Implemented** — applied to the master manuscript.
+
+## 5. Communication
+
+The team should be informed when:
+
+- A significant revision is proposed.
+- A decision is reached or a disagreement needs resolving.
+- A change is approved for the master manuscript.
+- The master manuscript is updated.
+- An important story or continuity decision is made.
+
+## 6. Master manuscript
+
+- `story/main.md` is the source of truth.
+- Editorial notes and proposals belong in the relevant feedback files or discussion.
+- Do not edit the master manuscript until the director has approved the change.
+- Keep a record of what changed and who proposed or approved it.
